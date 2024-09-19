@@ -285,7 +285,7 @@ defaults:
   # _experience
   - scope:
       path: ""
-      type: portfolio
+      type: experience
     values:
       layout: single
       author_profile: true
